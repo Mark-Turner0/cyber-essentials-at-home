@@ -1,0 +1,15 @@
+[submodule "ceah-autoreply"]
+	path = ceah-autoreply
+	url = https://gitlab.com/Mark-Turner0/ceah-autoreply
+[submodule "ceah-backend"]
+	path = ceah-backend
+	url = https://gitlab.com/Mark-Turner0/ceah-backend
+[submodule "ceah-survey"]
+	path = ceah-survey
+	url = https://gitlab.com/Mark-Turner0/ceah-survey
+[submodule "ceah-tool"]
+	path = ceah-tool
+	url = https://github.com/Mark-Turner0/ceah-tool
+[submodule "ceah-website"]
+	path = ceah-website
+	url = https://gitlab.com/Mark-Turner0/ceah-website
